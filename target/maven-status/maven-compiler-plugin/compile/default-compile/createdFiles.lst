@@ -1,0 +1,9 @@
+com\enigma\task\studyperiod\dto\CommonResponse.class
+com\enigma\task\studyperiod\exception\CustomException.class
+com\enigma\task\studyperiod\dao\StudyPeriodDao.class
+com\enigma\task\studyperiod\repository\StudyPeriodRepository.class
+com\enigma\task\studyperiod\dao\impl\BaseImpl.class
+com\enigma\task\studyperiod\model\StudyPeriod.class
+com\enigma\task\studyperiod\config\DaoSpringConfig.class
+com\enigma\task\studyperiod\dao\impl\StudyPeriodDaoImpl.class
+com\enigma\task\studyperiod\dto\StudyPeriodDto.class
